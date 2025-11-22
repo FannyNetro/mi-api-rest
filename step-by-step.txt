@@ -1,7 +1,20 @@
+
 -1. Abrir VS Code
 0. Abrir carpeta (ctrl + o)
     a. Puede ser carpeta ya existente
     b. Crear carpeta nueva
+
+=========================
+NOTA: 
+Hola, si clonaste este repositorio de GitHub, por favor ejecuta el 
+siguiente comando npm install. 
+Esto descargará todas las dependencias necesarias de manera automatica.
+Y brinca hasta el paso numero 3. :D
+
+Si estas haciendo los pasos uno por uno no hay necesidad de que
+hagas caso a esta nota. Sigue con los pasos como ibas hasta ahora.
+=========================
+
 1. Abrir terminal (ctrl + j)
     1.1 npm init -y
     1.2 npm install express nodemon
