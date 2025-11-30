@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oswgg/taller-si-apis-rest.git"
+    "url": "git+https://github.com/FannyNetro/mi-api-rest.git"
   },
+  "bugs": {
+    "url": "https://github.com/FannyNetro/mi-api-rest/issues"
+  },
+  "homepage": "https://github.com/FannyNetro/mi-api-rest#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/oswgg/taller-si-apis-rest/issues"
-  },
-  "homepage": "https://github.com/oswgg/taller-si-apis-rest#readme",
   "description": "",
   "dependencies": {
     "express": "^5.1.0",
